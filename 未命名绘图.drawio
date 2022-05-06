@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T11:51:01.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="tu7zZc-EWYgtVc_OJAQa" version="18.0.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-06T12:32:14.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="En1iZl-rxViOQZzbXFl1" version="18.0.0" type="github" pages="4">
   <diagram id="Xs_clCHAHA0B9ksmWqff" name="第 1 页">
     <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -47,27 +47,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H1JDH_5YTzn5oG8sZ9JF" name="第 2 页">
-    <mxGraphModel dx="1564" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="745" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7A7A7A;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1250" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1260" width="150" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="SCek2a9fWygDU5l0WCuA-1" value="&lt;h1&gt;技术选型&lt;/h1&gt;&lt;div&gt;前端 ： es5 es6 /react /&amp;nbsp; create-create-app / react-router-dom / redux&amp;nbsp; / react-redux&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;网络：restful api&amp;nbsp; / fetch&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;后端： node / express / sequelise&amp;nbsp; / mysql&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;部署：centos7.6 pm2&amp;nbsp; 云服务&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="120" y="30" width="750" height="290" as="geometry" />
         </mxCell>
         <mxCell id="SCek2a9fWygDU5l0WCuA-2" value="back:routes" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="380" width="100" height="300" as="geometry" />
+          <mxGeometry x="1380" y="380" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SCek2a9fWygDU5l0WCuA-3" value="back:controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="380" width="140" height="300" as="geometry" />
+          <mxGeometry x="1520" y="380" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SCek2a9fWygDU5l0WCuA-4" value="back:service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="380" width="140" height="300" as="geometry" />
+          <mxGeometry x="1700" y="380" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SCek2a9fWygDU5l0WCuA-5" value="back:model" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="380" width="140" height="300" as="geometry" />
+          <mxGeometry x="1890" y="380" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SCek2a9fWygDU5l0WCuA-6" value="back:mysql" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="380" width="140" height="300" as="geometry" />
+          <mxGeometry x="2090" y="380" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SCek2a9fWygDU5l0WCuA-9" value="API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1110" y="380" width="110" height="280" as="geometry" />
@@ -264,6 +270,27 @@
         </mxCell>
         <mxCell id="ywS3OtfqGjmqu86BHe9x-51" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: &amp;quot;Roboto Mono&amp;quot;, Menlo; font-size: 14px; display: block; padding: 20px; margin: 0px; line-height: 1.8; color: rgb(0, 185, 241); word-break: break-all; overflow-wrap: normal; background-color: rgb(245, 245, 245); border: none; border-radius: 4px; position: relative; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;pre-encode HS256&quot;&gt;  base64UrlEncode(header) + &quot;.&quot; +&#xa;  base64UrlEncode(payload),&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1205" y="1205" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-53" value="authMiddleware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-57" value="authMiddleware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-58" value="router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-59" value="index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-60" value="admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-61" value="app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ywS3OtfqGjmqu86BHe9x-62" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
